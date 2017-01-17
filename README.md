@@ -9,9 +9,9 @@ Current files:
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.svg">SVG file</a></li>
   <li>References:
     <ul>
-    <li></li>
-    <li></li>
-    </ul>ccc
+    <li>Padgett, John (2014). Marriage and Elite Structure in Renaisssance Florence 1282-1500, <a href="http://home.uchicago.edu/~jpadgett/papers/unpublished/maelite.pdf">http://home.uchicago.edu/~jpadgett/papers/unpublished/maelite.pdf</a>.</li>
+    <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
+    </ul>
     </li>
 </ul>
 

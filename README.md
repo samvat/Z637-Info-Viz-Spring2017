@@ -7,5 +7,11 @@ Current files:
 <ul>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.pdf">PDF file</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.svg">SVG file</a></li>
+  <li>References:
+    <ul>
+    <li></li>
+    <li></li>
+    </ul>ccc
+    </li>
 </ul>
 

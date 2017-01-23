@@ -8,8 +8,8 @@ Current files: (in reverse chronological order)
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/Making%20Temporal%20Burst%20Analysis%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/samrasto_When_Temporal_Data.svg">Visualization - SVG file</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/samrasto_When_Temporal_Data.pdf">Visualization - PDF file</a></li>
-   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/BurstDetectionOutput.csv">Burst Analysis - CSV</a></li>
-   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/BurstDetectionOutput_Processed.csv">Burst Analysis - CSV  Processed</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/BurstDetectionOutput.csv">Burst Analysis Output - CSV</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/BurstDetectionOutput_Processed.csv">Burst Analysis Output- CSV  Processed</a></li>
   <li>References:
     <ul>
     <li>

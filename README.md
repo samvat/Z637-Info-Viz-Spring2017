@@ -5,11 +5,14 @@ Current files: (in reverse chronological order)
 
 <h3>Homework2</h3>
 <ul>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.pdf">PDF file</a></li>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.svg">SVG file</a></li>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework1/samrasto_Visual_Framework_and_Workflow_Design.png">PNG file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/Making%20Temporal%20Burst%20Analysis%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/samrasto_When_Temporal_Data.svg">Visualization - SVG file</a></li>
+  <li><a href="hhttps://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/samrasto_When_Temporal_Data.pdf">Visualization - PNG file</a></li>
   <li>References:
     <ul>
+    <li>
+    Dataset for Mesothelioma Burst Detection (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125044/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125044/download?wrap=1</a>
+    </li>
     <li>Wikipedia (2017). Mesothelioma, <a href="https://en.wikipedia.org/wiki/Mesothelioma">https://en.wikipedia.org/wiki/Mesothelioma</a>.</li>
     <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
     </ul>

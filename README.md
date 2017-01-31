@@ -3,6 +3,24 @@ Homework Repository for ILS-Z 637 Information Visualization (Spring 2017)
 
 Current files: (in reverse chronological order)
 
+<h3>Homework3</h3>
+<ul>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/Data_Processing.R">Data Processing Script - R file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/Top%2030%20NSF%20Grant%20on%20Seismology%20and%20Plate%20Tectonics%20(1986-2010).pdf">Visualization - PDF file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/Top%2030%20NSF%20Grant%20on%20Seismology%20and%20Plate%20Tectonics%20(1986-2010).svg">Visualization - SVG file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/Top%2030%20NSF%20Grant%20on%20Seismology%20and%20Plate%20Tectonics%20(1986-2010).png">Visualization - PNG file</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/institutes.csv">Top 5 Institutions - Processed - CSV File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/gelocation_Latitude_and_Longitude.csv">Top 30 Geolocation - Processed - CSV File</a></li>
+  <li>References:
+    <ul>
+    <li>
+    Dataset for NSF on seismology and plate tectonics (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125038/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125038/download?wrap=1</a>
+    </li>
+    <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
+    </ul>
+    </li>
+</ul>
+
 <h3>Homework2</h3>
 <ul>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework2/Making%20Temporal%20Burst%20Analysis%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>

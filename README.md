@@ -5,7 +5,7 @@ Current files: (in reverse chronological order)
 
 <h3>Homework4</h3>
 <ul>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data_Approach.pdf">Details and Approach</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/Topical%20Data%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.pdf">Visualization - PDF file</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.svg">Visualization - SVG file</a></li>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.png">Visualization - PNG file</a></li>

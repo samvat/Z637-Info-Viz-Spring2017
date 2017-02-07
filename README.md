@@ -3,6 +3,23 @@ Homework Repository for ILS-Z 637 Information Visualization (Spring 2017)
 
 Current files: (in reverse chronological order)
 
+<h3>Homework4</h3>
+<ul>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data_Approach.pdf">Details and Approach</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.pdf">Visualization - PDF file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.svg">Visualization - SVG file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.png">Visualization - PNG file</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.nwb">Final Word Co-Occurrence Network Data File - NWB File</a></li>
+  <li>References:
+    <ul>
+    <li>
+    Dataset for 743 journal articles from Web of Science that related to computational linguistics for the period 2011-2015.s (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125043/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125043/download?wrap=1</a>
+    </li>
+    <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
+    </ul>
+    </li>
+</ul
+
 <h3>Homework3</h3>
 <ul>
   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework3/Geospatial%20Visualization%20(Proportional%20Symbol%20Map)%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>

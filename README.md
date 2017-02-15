@@ -2,6 +2,22 @@
 Homework Repository for ILS-Z 637 Information Visualization (Spring 2017) 
 
 Current files: (in reverse chronological order)
+<h3>Homework5</h3>
+<ul>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/Topical%20Data%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>
+  <li><a href="https://public.tableau.com/profile/samvat.rastogi#!/vizhome/U_S_MortalityStatisticsfor2004bytheWorldHealthOrganizationsInternationalClassificationofDiseases10/Sheet1">Visualization - 1</a></li>
+  <li><a href="https://public.tableau.com/profile/samvat.rastogi#!/vizhome/U_S_MortalityStatisticsfor2004bytheWorldHealthOrganizationsInternationalClassificationofDiseases10/Sheet2">Visualization - 2</a></li>
+  <li><a href="https://public.tableau.com/profile/samvat.rastogi#!/vizhome/U_S_MortalityStatisticsfor2004bytheWorldHealthOrganizationsInternationalClassificationofDiseases10/Sheet3">Visualization - 3</a></li>
+   <li><a href="https://public.tableau.com/profile/samvat.rastogi#!/vizhome/U_S_MortalityStatisticsfor2004bytheWorldHealthOrganizationsInternationalClassificationofDiseases10/Sheet4">Visualization - 4</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.nwb">Final Word Co-Occurrence Network Data File - NWB File</a></li>
+  <li>References:
+    <ul>
+    <li>
+    Dataset for U.S. Mortality Statistics for 2004, as classified by the World Health Organization's International Classification of Diseases 10 (ICD10) (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1</a>
+    </li>
+    </ul>
+    </li>
+</ul>
 
 <h3>Homework4</h3>
 <ul>
@@ -18,7 +34,7 @@ Current files: (in reverse chronological order)
     <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
     </ul>
     </li>
-</ul
+</ul>
 
 <h3>Homework3</h3>
 <ul>

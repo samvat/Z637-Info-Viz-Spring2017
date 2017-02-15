@@ -12,11 +12,11 @@ Current files: (in reverse chronological order)
    <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework5/Wk5-icd102010en-US-Morbidity_processed.csv">Dataset for U.S. Mortality Statistics for 2004, as classified by the World Health Organization's International Classification of Diseases 10 (ICD10) Processed  - CSV File</a></li>
   <li>References:
     <ul>
-    <li>
-    Dataset for U.S. Mortality Statistics for 2004, as classified by the World Health Organization's International Classification of Diseases 10 (ICD10) (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1</a>
-    </li>
+      <li>Dataset for U.S. Mortality Statistics for 2004, as classified by the World Health Organization's International Classification of Diseases 10 (ICD10) (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125059/download?wrap=1</a>
+      </li>
     </ul>
-    </li>
+   </li>
+   <li>Note: Null Values in the dataset were ignored or removed while creating the visualization.</li>
 </ul>
 
 <h3>Homework4</h3>

@@ -16,7 +16,7 @@ Current files: (in reverse chronological order)
       </li>
     </ul>
    </li>
-   <li>Note: Null Values in the dataset were ignored or removed while creating the visualization.</li>
+   <li>Note: Null Values in the dataset were ignored or removed while creating the visualizations.</li>
 </ul>
 
 <h3>Homework4</h3>

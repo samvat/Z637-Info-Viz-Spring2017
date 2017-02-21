@@ -4,15 +4,20 @@ Homework Repository for ILS-Z 637 Information Visualization (Spring 2017)
 Current files: (in reverse chronological order)
 <h3>Homework6</h3>
 <ul>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Topical%20Data%20Visualization%20%E2%80%93%20Approach.pdf">Details and Approach</a></li>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_What_Topical_Data.pdf">Visualization - PDF file</a></li>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_What_Topical_Data.svg">Visualization - SVG file</a></li>
-  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.png">Visualization - PNG file</a></li>
-   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework4/samrasto_What_Topical_Data.nwb">Final Word Co-Occurrence Network Data File - NWB File</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/With%20Whom%20Network%20Visualization%20%E2%80%93%20Approach.pdf">Details, Approach and Analysis</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_With%20Whom%20Networks.pdf">Visualization - PDF file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_With%20Whom%20Networks.svg">Visualization - SVG file</a></li>
+  <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_With%20Whom%20Networks.png">Visualization - PNG file</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_With%20Whom%20Networks_2000_2007_final.nwb">Co-Occurrence Network Data File 2000-2007 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/samrasto_With%20Whom%20Networks_2008_2015_final.nwb">Co-Occurrence Network Data File 2008-2015 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Betweenness%20Centrality_2000_2007.nwb">Analysis - Betweenness Centrality 2000-2007 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Betweenness%20Centrality_2008_2015.nwb">Analysis - Betweenness Centralitye 2008-2015 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Node_Degree_and_Strength_2000_2007.nwb">Analysis - Node Degree and Strength - 2000-2007 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Node_Degree_and_Strength_2008_2015.nwb">Analysis - Node Degree and Strength - 2008-2015 - NWB File</a></li>
   <li>References:
     <ul>
     <li>
-    Dataset for 743 journal articles from Web of Science that related to computational linguistics for the period 2011-2015.s (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125043/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125043/download?wrap=1</a>
+    Dataset for Visualization (Web of Science) 2000-2016 (Requires Canvas login to access), <a href="https://iu.instructure.com/courses/1595331/files/64125057/download?wrap=1">https://iu.instructure.com/courses/1595331/files/64125057/download?wrap=1</a>
     </li>
     <li>Sci2 Team. (2009). Science of Science (Sci2) Tool. Indiana University and SciTech Strategies, <a href="https://sci2.cns.iu.edu">https://sci2.cns.iu.edu</a>.</li>
     </ul>

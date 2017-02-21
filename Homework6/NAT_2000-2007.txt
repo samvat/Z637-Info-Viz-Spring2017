@@ -1,0 +1,28 @@
+This graph claims to be undirected.
+
+Nodes: 196
+Isolated nodes: 0
+Node attributes present: label, timescited, cited2000, numberofworks
+
+Edges: 369
+No self loops were discovered.
+No parallel edges were discovered.
+
+Edge attributes:
+	Did not detect any nonnumeric attributes.
+	Numeric attributes:
+				min	max	mean
+		numbero...	2	28	3.65583
+		weight     	2	28	3.65583
+
+	This network seems to be valued.
+
+Average degree: 3.7653
+This graph is not weakly connected.
+There are 35 weakly connected components. (0 isolates)
+The largest connected component consists of 43 nodes.
+Did not calculate strong connectedness because this graph was not directed.
+
+Density (disregarding weights): 0.0193
+Additional Densities by Numeric Attribute
+

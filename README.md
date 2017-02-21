@@ -14,6 +14,7 @@ Current files: (in reverse chronological order)
    <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Betweenness%20Centrality_2008_2015.nwb">Analysis - Betweenness Centralitye 2008-2015 - NWB File</a></li>
    <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Node_Degree_and_Strength_2000_2007.nwb">Analysis - Node Degree and Strength - 2000-2007 - NWB File</a></li>
    <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/Node_Degree_and_Strength_2008_2015.nwb">Analysis - Node Degree and Strength - 2008-2015 - NWB File</a></li>
+   <li><a href="https://github.com/samvat/Z637-Info-Viz-Spring2017/blob/master/Homework6/WK6-WoS-CoAuthorship.properties">Properties File</a></li>
   <li>References:
     <ul>
     <li>
